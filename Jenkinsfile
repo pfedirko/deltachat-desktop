@@ -84,5 +84,4 @@ pipeline {
                 subject: "Test failed in Jenkins"
         }
     }
-    
 }
